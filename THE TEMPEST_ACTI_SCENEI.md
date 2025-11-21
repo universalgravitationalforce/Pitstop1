@@ -30,11 +30,11 @@ TRINCULO, a Jester.
 
 STEPHANO, a drunken Butler. 
 
-Master of a Ship**,** Boatswain, and Mariners. 
+Master of a Ship, Boatswain, and Mariners. 
 
 
 
-MIRANDA**,** Daughter to Prospero.  
+MIRANDA, Daughter to Prospero.  
 
 
 
@@ -98,15 +98,15 @@ SCENE, *a Ship at Sea; afterwards an uninhabited Island*
 [^4]: That is, "if *we have* sea-room enough." So in *Pericles*, iii. 1: "But *sea-room*, an the brine and cloudy billow kiss the Moon, I care not." 
 [^5]: Act with spirit, behave like men. So in 2 Samuel, x. 12: "Be of good courage, and let us *play the men* for our people." 
 
-&nbsp;&nbsp;*Gonza*. Nay**,** good**,** be patient. 
+&nbsp;&nbsp;*Gonza*. Nay, good, be patient. 
 
-&nbsp;&nbsp;*Boats*. When the sea is. Hence! What care these roarers for the name of king**?** To cabin: silence! trouble 
+&nbsp;&nbsp;*Boats*. When the sea is. Hence! What care these roarers for the name of king? To cabin: silence! trouble 
 
 us not. 
 
 &nbsp;&nbsp;*Gonza*. Good, yet remember whom thou hast aboard. 
 
-&nbsp;&nbsp;*Boats*. None that I more love than myself. You are a counsellor: if you can command these elements to silence, and work the peace of the present,[^6] we will not hand a rope more; use your authority: if you cannot**,** give thanks you have lived so long, and make yourself ready in your cabin for the mischance of the hour, if it so hap. — Cheerly, good hearts! — Out of our way, I say. [*Exit*. 
+&nbsp;&nbsp;*Boats*. None that I more love than myself. You are a counsellor: if you can command these elements to silence, and work the peace of the present,[^6] we will not hand a rope more; use your authority: if you cannot, give thanks you have lived so long, and make yourself ready in your cabin for the mischance of the hour, if it so hap. — Cheerly, good hearts! — Out of our way, I say. [*Exit*. 
 
 &nbsp;&nbsp;*Gonza*. I have great comfort from this fellow: methinks he hath no drowning-mark upon him; his complexion[^7] is perfect gallows. — Stand fast, good Fate, to his hanging! make the rope of his destiny our cable, for our own doth little advantage! If he be not born to be hang'd, our case is miserable.  [*Exeunt*. 
 
@@ -185,4 +185,5 @@ thing.[^17] The wills above[^18] be done! but I would fain die a dry death.[^19]
 
 [^17]: *Ling*, *heath*, *broom*, and *furze* were names of plants growing on British barrens. So in Harrison's description of Britain, prefixed to Holinshed: "*Brome*, *heth*, *firze*, brakes, whinnes, *ling*, &c."
 [^18]: Of course, "the *wills* above" is the *will* of the *Powers* above.
+
 [^19]: The first scene of *The Tempest* is a very striking instance of the great accuracy of Shakespeare's knowledge in a professional science, the most difficult to attain without the help of experience**.** He must have acquired it by conversation with some of the most skillful seamen of that time. The succession of events is strictly observed in the natural progress of the distress described; the expedients adopted are the most proper that could have been devised for a chance of safety: and it is neither to the want of skill of the seamen or the bad qualities of the ship, but solely to the power of Prospero, that the shipwreck is to be attributed. The words of command are not only strictly proper, but are only such as point the object to be attained, and no superfluous ones of detail. Shakespeare's ship was too well manned to make it necessary to tell the seamen how they were to do it, as well as what they were to do. — LORD MULGRAVE. 
