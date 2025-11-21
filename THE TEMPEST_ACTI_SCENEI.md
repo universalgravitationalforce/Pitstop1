@@ -117,9 +117,7 @@ us not.
 [^6]:  *Present* for *present time*. So in the Prayer-Book: "That those things may please Him which we do at this *present*." And in 1 Corinthians, xv. 6: "Of whom the greater part remain unto this *present*." 
 [^7]: *Complexion* was often used for *nature, native bent or aptitude*. See *The Merchant of Venice*, page 134, note 7. 
 [^8]: Of this order Lord Mulgrave, a sailor critic, says, "The striking the top-mast was a new invention in Shakespeare's time, which he here very properly introduces. He has placed his ship in the situation in which it was indisputably right to strike the top-mast, — where he had not sea-room." 
-[^9]: This appears to have been a common nautical phrase. So in Hackluyt's *Voyages*, 1598: "And when the bark had way we cut the hauser, and so gat the sea to our friend, and *tried out* all the day *with our maine* course." Also in Smith's *Sea Grammar*, 1627: "Let us lie at *trie with our maine*  
-
-
+[^9]: This appears to have been a common nautical phrase. So in Hackluyt's *Voyages*, 1598: "And when the bark had way we cut the hauser, and so gat the sea to our friend, and *tried out* all the day *with our maine* course." Also in Smith's *Sea Grammar*, 1627: "Let us lie at *trie with our maine course*." And Sir Walter Raleigh speaks of being "obliged to lye at trye with our main course and mizen," *To lie at try* is to keep as close to the wind as possible.
 
 plague upon this howling! they are louder than the weather or our office, [^10]— 
 
@@ -136,8 +134,7 @@ Yet again! what do you here? Shall we give o'er, and drown? Have you a mind to s
 &nbsp;&nbsp;*Gonza*. I'll warrant him for drowning,[^12] though the ship were no stronger than a nut-shell. 
 
 &nbsp;&nbsp;*Boats*. Lay her a-hold, a-hold! set her two courses![^13] off to sea again; lay her off! 
-
-[^9]: *course*." And Sir Walter Raleigh speaks of being "obliged to lye at trye with our main course and mizen," *To lie at try* is to keep as close to the wind as possible. 
+ 
 [^10]:  *Weather for storm*. "Their howling drowns both the roaring of the tempest and the commands of the officer," or "our official orders." 
 [^11]: " Less afraid *of being* drown'd." So the Poet often uses the infinitive gerundively, or like the Latin *gerund*. See *King Lear*, page 117, note 18; also page 205, note 28. 
 [^12]:  *As to*, or *as regards*, drowning. A not uncommon use of *for*. — Gonzalo has in mind the old proverb, "He that is born to be hanged will never be drowned." 
@@ -187,3 +184,4 @@ thing.[^17] The wills above[^18] be done! but I would fain die a dry death.[^19]
 [^18]: Of course, "the *wills* above" is the *will* of the *Powers* above.
 
 [^19]: The first scene of *The Tempest* is a very striking instance of the great accuracy of Shakespeare's knowledge in a professional science, the most difficult to attain without the help of experience**.** He must have acquired it by conversation with some of the most skillful seamen of that time. The succession of events is strictly observed in the natural progress of the distress described; the expedients adopted are the most proper that could have been devised for a chance of safety: and it is neither to the want of skill of the seamen or the bad qualities of the ship, but solely to the power of Prospero, that the shipwreck is to be attributed. The words of command are not only strictly proper, but are only such as point the object to be attained, and no superfluous ones of detail. Shakespeare's ship was too well manned to make it necessary to tell the seamen how they were to do it, as well as what they were to do. — LORD MULGRAVE. 
+
